@@ -1,1 +1,2 @@
-# TrafficSignal
+# Traffic Signal Classification
+In this repo, I will try to classify 10 different traffic signs using classical computer vision technique such as HOG with SVM. I will also compare it with a deep neural network by fine tuning a classifier using transfer learning.
